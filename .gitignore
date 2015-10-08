@@ -61,3 +61,11 @@ src/cm_config/settings.py
 
 # Project files
 .idea/
+
+# Virtual Environment files
+bin/*
+include/*
+
+# others
+pip-selfcheck.json
+*.swp
